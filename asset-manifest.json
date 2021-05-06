@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.be17689e.chunk.css",
-    "main.js": "/static/js/main.69e45b30.chunk.js",
-    "main.js.map": "/static/js/main.69e45b30.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0ea58804.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0ea58804.js.map",
-    "static/js/2.712dc251.chunk.js": "/static/js/2.712dc251.chunk.js",
-    "static/js/2.712dc251.chunk.js.map": "/static/js/2.712dc251.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.be17689e.chunk.css.map": "/static/css/main.be17689e.chunk.css.map",
-    "static/js/2.712dc251.chunk.js.LICENSE.txt": "/static/js/2.712dc251.chunk.js.LICENSE.txt"
+    "main.css": "/hackernews/static/css/main.be17689e.chunk.css",
+    "main.js": "/hackernews/static/js/main.69e45b30.chunk.js",
+    "main.js.map": "/hackernews/static/js/main.69e45b30.chunk.js.map",
+    "runtime-main.js": "/hackernews/static/js/runtime-main.ebe619f7.js",
+    "runtime-main.js.map": "/hackernews/static/js/runtime-main.ebe619f7.js.map",
+    "static/js/2.712dc251.chunk.js": "/hackernews/static/js/2.712dc251.chunk.js",
+    "static/js/2.712dc251.chunk.js.map": "/hackernews/static/js/2.712dc251.chunk.js.map",
+    "index.html": "/hackernews/index.html",
+    "static/css/main.be17689e.chunk.css.map": "/hackernews/static/css/main.be17689e.chunk.css.map",
+    "static/js/2.712dc251.chunk.js.LICENSE.txt": "/hackernews/static/js/2.712dc251.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ea58804.js",
+    "static/js/runtime-main.ebe619f7.js",
     "static/js/2.712dc251.chunk.js",
     "static/css/main.be17689e.chunk.css",
     "static/js/main.69e45b30.chunk.js"
