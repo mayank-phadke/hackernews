@@ -1,0 +1,7 @@
+.myNavbar {
+    background-color: #64748a !important;
+}
+
+a:hover .developer-name {
+    color: blue;
+}
