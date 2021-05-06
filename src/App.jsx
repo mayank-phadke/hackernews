@@ -1,6 +1,6 @@
 import React from "react"
 import SearchPage from "./Pages/SearchPage"
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 
 export default class App extends React.Component {
     render() {
