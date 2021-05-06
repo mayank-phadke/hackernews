@@ -20,3 +20,7 @@ Displays hackernews data. Refreshes data every minute. Users can filter data usi
 ---
 
 Created By [Mayank Phadke](https://mayank-phadke.github.io)
+
+Deployed to [HackerNews Live](https://mayank-phadke.github.io/hackernews)
+
+Deployed using [Github Pages](https://pages.github.com/) and [react-gh-pages](https://github.com/gitname/react-gh-pages)
